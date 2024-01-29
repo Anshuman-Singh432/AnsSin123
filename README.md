@@ -1,4 +1,4 @@
-#  Use the Gdrive link to download the whole zipped file-  The file name is assigment.zip
+#  Use the Gdrive link to download the whole solution zipped file-  The file name is assigment.zip
 
 https://drive.google.com/file/d/1kSFtFCxfX7w2bAVqkdjgucmCgO6ubjGh/view?usp=sharing
 

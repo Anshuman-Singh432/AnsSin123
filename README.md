@@ -1,7 +1,12 @@
 #  Use the Gdrive link to download the whole solution zipped file-  The file name is assigment.zip
 
-https://drive.google.com/file/d/1kSFtFCxfX7w2bAVqkdjgucmCgO6ubjGh/view?usp=sharing
+https://drive.google.com/file/d/1IabM4srlPa8Vh2oye7fFsJCM9j0a_lkd/view?usp=sharing
 
+
+Visable.ipynb- is the Jupyter Notebook file name of the data modelling code file.
+main.py- is the file used for integrating Fast API and its using custom_tranformer.py fo data preprocessing.
+custom_tranformer.py- is the file used for preprocessing the data recieved from application
+Dockerfile-  have been created containg enviroment dependencies.
 
 
 # AnsSin123
